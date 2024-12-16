@@ -1,6 +1,6 @@
 name: test-snapd-audit-control
 base: core22
-version: '1.0'
+version: '1.1'
 summary: Basic snap to test the audit-control interface
 description: |
   A basic snap which uses the audit_control capability, reads /proc/*/loginuid
